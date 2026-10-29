@@ -1,5 +1,7 @@
 # WB to Ozon Normalize Chars
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 ## О проекте
 
 `WB to Ozon Normalize Chars` — утилита для переноса и нормализации данных между Excel-шаблонами Wildberries и Ozon. Судя по коду, основной сценарий использования — взять выгрузку или шаблон WB, сопоставить поля с форматом Ozon и автоматически преобразовать размеры, веса, артикулы и часть текстовых характеристик.
